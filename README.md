@@ -28,7 +28,7 @@ Model(
 | Income <= 50  | 84.62%    |  78.57%    |
 | Income > 50 | 82.35%     |   87.50%     |
 
-<image src="https://i.imgur.com/eHeBOmv.png" width=70%>
+<image src="https://github.com/user-attachments/assets/b81dadc8-b648-414a-8221-cb75dd5d63ff" width=70%>
 
 ### Dataset `with` Anonymity
 | Category/Metrics   | Precision | Recall |
